@@ -32,5 +32,5 @@ Learning Resources list for javascricpt
 
 >[Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.in/Eloquent-JavaScript-Modern-Introduction-Programming-ebook/dp/B004OEJNQ0?_encoding=UTF8&tag=googinhydr18418-21)
 
->[Speaking JavaScript: An In-Depth Guide for Programmers](speakingjs.com)
+>[Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/es5/)
 
